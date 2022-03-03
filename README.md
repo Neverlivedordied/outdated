@@ -1,20 +1,18 @@
 [contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/index.html)   [aboutme](https://neverlivedordied.github.io/About-Me/index.html)   [chatroom](https://neverlivedordied.github.io/chatroom/index.html) [mainmenu](https://neverlivedordied.github.io/index.html)
 ## Hi welcome to the Tips and tricks part of my website.  here you can do many things like how to make a new account on windows without needing admin how cool is that!
 # oh and btws might make it so its a link so you dont scroll through all this to a another thing 
-# 
 
 
 
 
+---
+
+## creating a account on a windows machine with out admin rights
 
 <dl>
-  <dt>create a user account on a windows computer through the use of a terminal</dt>
+  <dt> in this guide you'll create a user account on a windows computer through the use of a terminal</dt>
  <dd>and all you need is a usb windows on it and a computer with windows 10 installed and of course usb ports on the computer.</dd>
   <dd> dont worry I am working on a guide on how to put windows on usb drive soon</dd>
-
-  
- ---
-  
   
  <d1> 
 <dt> Ever forget your password want to set up a new account without logging in well I've got the way for you </dt>
@@ -41,11 +39,7 @@
 <d1>
   <dt>You heard that right time for command promp. So after you hit repair windows or was it repair this pc though </dt>
   
-  
-  
-  
-  
-  
+ 
   
   ---
   
