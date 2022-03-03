@@ -18,8 +18,6 @@
   
   
 ## Ever forget your password want to set up a new account without logging in well I've got the way for you 
-#### all you'll need is a usb drive with windows instal media on it and of couse a windows machine.
-#### also should be obvious dont do this on a machine you arent supose to use as in this guide you'll be able to make a admin account.
 ### BTW in this guide we will be using BIOS and UEFI and interchangeable words 
 
 
@@ -48,6 +46,6 @@
   ---
   
   </d1> 
-  </dt>Setting up wsl</dt>
+  ##</dt>Setting up wsl</dt>
   <dd> Windows subsystem for linux</dd>
   
