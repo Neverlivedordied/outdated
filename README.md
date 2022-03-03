@@ -16,14 +16,14 @@
  ---
   
   
- <d2> 
+ <d1> 
 <dt> Ever forget your password want to set up a new account without logging in well I've got the way for you </dt>
    <dd>BTW in this guide we will be using BIOS and UEFI and interchangeable words </dd>
 
 
   STEP 1. RESTART
-<d1>
-  <d5>restart or shutdown the computer. Next plug in the usb in one of the usb ports. After that turn on the computer and reapetalty hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.)</dt>
+<d5>
+  <dt>restart or shutdown the computer. Next plug in the usb in one of the usb ports. After that turn on the computer and reapetalty hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.)</dt>
   <dd>(picture soon)</dd>
 
 
