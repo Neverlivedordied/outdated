@@ -23,7 +23,7 @@
 
   STEP 1. RESTART
 <d5>
-  <dt>restart or shutdown the computer. Next plug in the usb in one of the usb ports. After that turn on the computer and reapetalty hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.)</dt>
+  <dt>restart or shutdown the computer. Then plug in the usb in one of the avaible usb ports on your computer. After that turn on the computer and repeatedly hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.) until the bios shows.</dt>
   <dd>(picture soon)</dd>
 
 
