@@ -16,26 +16,30 @@
  ---
   
   
-  
-## Ever forget your password want to set up a new account without logging in well I've got the way for you 
-### BTW in this guide we will be using BIOS and UEFI and interchangeable words 
+ <d1> 
+<dt> Ever forget your password want to set up a new account without logging in well I've got the way for you </dt>
+   <dd>BTW in this guide we will be using BIOS and UEFI and interchangeable words </dd>
 
 
-### STEP 1. RESTART
-## restart or shutdown the computer. Next plug in the usb in one of the usb ports. After that turn on the computer and reapetalty hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.
-(picture soon)
+ ## STEP 1. RESTART
+<d1>
+  <dt>restart or shutdown the computer. Next plug in the usb in one of the usb ports. After that turn on the computer and reapetalty hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.)</dt>
+  <dd>(picture soon)</dd>
 
 
 ### STEP 2. BIOS
-## After you boot up to the BIOS navigate to where you can choose the boot order (often shown as boot priority and on the first page). To change the boot order you either drag the icon (this case should say the usbs name like sandisk) infront of your boot drive (its the farthest to the left drive). While if you have no icons you should be able to click on boot priority or one of the names to change it.
-(picture soon)
+<d1>
+  <dt>After you boot up to the BIOS navigate to where you can choose the boot order (often shown as boot priority and on the first page). To change the boot order you either drag the icon (this case should say the usbs name like sandisk) infront of your boot drive (its the farthest to the left drive). While if you have no icons you should be able to click on boot priority or one of the names to change it.</dt>
+  <dd>(picture soon)</dd>
 
 
 ### STEP 3. SAVING AND WINDOWS STARTUP
-## Now you want to obvisouly save your changes. After that you can well exit the bios and it should bring you to the windows install. Now dont worry we arent going to install windows were just gonna hit repair windows should be in the bottom left corner of the box.
+<d1>
+  <dt>Now you want to obvisouly save your changes. After that you can well exit the bios and it should bring you to the windows install. Now dont worry we arent going to install windows were just gonna hit repair windows should be in the bottom left corner of the box.</dt>
 
 ### STEP 4. COMMAND AND CONQUER 
-## You heard that right time for command promp. So after you hit repair windows or was it repair this pc though 
+<d1>
+  <dt>You heard that right time for command promp. So after you hit repair windows or was it repair this pc though </dt>
   
   
   
