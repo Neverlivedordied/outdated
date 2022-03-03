@@ -46,6 +46,6 @@
   ---
   
   </d1> 
-  ##</dt>Setting up wsl</dt>
+  </dt>Setting up wsl</dt>
   <dd> Windows subsystem for linux</dd>
   
