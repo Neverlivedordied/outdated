@@ -11,7 +11,12 @@
   <dt>create a user account on a windows computer through the use of a terminal</dt>
  <dd>and all you need is a usb windows on it and a computer with windows 10 installed and of course usb ports on the computer.</dd>
   <dd> dont worry I am working on a guide on how to put windows on usb drive soon</dd>
-  ---
+ 
+  
+ ---
+  
+  
+  
 ## Ever forget your password want to set up a new account without logging in well I've got the way for you 
 #### all you'll need is a usb drive with windows instal media on it and of couse a windows machine.
 #### also should be obvious dont do this on a machine you arent supose to use as in this guide you'll be able to make a admin account.
