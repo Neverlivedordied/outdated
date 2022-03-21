@@ -37,7 +37,7 @@
 
   STEP 4. COMMAND AND CONQUER 
 <d1>
-  <dt>You heard that right time for command promp. So after you hit repair windows or was it repair this pc though </dt>
+  <dt>You heard that right, time for command prompt. So after you hit repair windows or was it repair this pc  </dt>
   
  
   
