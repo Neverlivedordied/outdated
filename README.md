@@ -13,7 +13,7 @@
    <body>
       <br>
       <a href="https://neverlivedordied.github.io/create-a-windows-acc-without-admin/index.html">
-         <img alt="Qries" src="https://www.howtogeek.com/wp-content/uploads/2016/09/img_57ddf23b40568.png?width=1198&trim=1,1&bg-color=000&pad=1,1"
+         <img alt="Windows" src="https://www.howtogeek.com/wp-content/uploads/2016/09/img_57ddf23b40568.png?width=1198&trim=1,1&bg-color=000&pad=1,1"
          width=450" height="400">
       </a>
    </body>
