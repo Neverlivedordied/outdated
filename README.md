@@ -14,7 +14,7 @@
       <br>
       <a href="https://neverlivedordied.github.io/create-a-windows-acc-without-admin/index.html">
          <img alt="Windows" src="https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png"
-         width=171" height="520">
+         width="171" height="520">
       </a>
    </body>
 </html>
