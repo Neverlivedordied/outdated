@@ -14,61 +14,12 @@
       The following image works as a link:<br>
       <a href="https://neverlivedordied.github.io/create-a-windows-acc-without-admin/index.html">
          <img alt="Qries" src="https://www.howtogeek.com/wp-content/uploads/2016/09/img_57ddf23b40568.png?width=1198&trim=1,1&bg-color=000&pad=1,1"
-         width=150" height="70">
+         width=350" height="200">
       </a>
    </body>
 </html>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## creating a account on a windows machine with out admin rights
-
-<dl>
-  <dt> in this guide you'll create a user account on a windows computer through the use of a terminal</dt>
- <dd>and all you need is a usb windows on it and a computer with windows 10 installed and of course usb ports on the computer.</dd>
-  <dd> dont worry I am working on a guide on how to put windows on usb drive soon</dd>
-  
- <d1> 
-<dt> Ever forget your password want to set up a new account without logging in well I've got the way for you </dt>
-   <dd>BTW in this guide we will be using BIOS and UEFI and interchangeable words </dd>
-
-
-  STEP 1. RESTART
-<d5>
-  <dt>restart or shutdown the computer. Then plug in the usb in one of the avaible usb ports on your computer. After that turn on the computer and repeatedly hit f12 or delete (these are the most common buttons used to access the BIOS or UEFI.) until the bios shows.</dt>
-  <dd>(picture soon)</dd>
-
-
-  STEP 2. BIOS
-<d1>
-  <dt>After you boot up to the BIOS navigate to where you can choose the boot order (often shown as boot priority and on the first page). To change the boot order you either drag the icon (this case should say the usbs name like sandisk) infront of your boot drive (its the farthest to the left drive). While if you have no icons you should be able to click on boot priority or one of the names to change it.</dt>
-  <dd>(picture soon)</dd>
-
-
-  STEP 3. SAVING AND WINDOWS STARTUP
-<d1>
-  <dt>Now you want to obvisouly save your changes. After that you can well exit the bios and it should bring you to the windows install. Now dont worry we arent going to install windows were just gonna hit repair windows should be in the bottom left corner of the box.</dt>
-
-  STEP 4. COMMAND AND CONQUER 
-<d1>
-  <dt>You heard that right, time for command prompt. So after you hit repair windows or was it repair this pc  </dt>
-  
- 
   
   ---
   
