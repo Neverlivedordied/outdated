@@ -9,16 +9,7 @@ scream boi
 
 
  ### creating a windows user account without having admin
-   </head>
-   <body>
-      <br>
-      <a href="https://neverlivedordied.github.io/create-a-windows-acc-without-admin/index.html">
-         <img alt="Windows" src="https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/windows.png"
-         width="520" height="171">
-      </a>
-   </body>
-</html>
-
+ 
 
   
   ---
