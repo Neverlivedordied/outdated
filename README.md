@@ -8,7 +8,7 @@
 ---
 
 
- CLICK PICTURE 
+ ### creating a windows user account without having admin
    </head>
    <body>
       The following image works as a link:<br>
